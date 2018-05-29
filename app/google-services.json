@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "241120842806",
+    "firebase_url": "https://examen-final-a89b7.firebaseio.com",
+    "project_id": "examen-final-a89b7",
+    "storage_bucket": "examen-final-a89b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241120842806:android:79ce92cb41d74d50",
+        "android_client_info": {
+          "package_name": "com.jesussantander.examenfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241120842806-501mqdlref66lv45f7aqh4ssnagi3uac.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "241120842806-501mqdlref66lv45f7aqh4ssnagi3uac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY3ROqZYUkEVxemJT7HiMduHfzN7j-JLo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

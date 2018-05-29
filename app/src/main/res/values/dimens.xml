@@ -1,0 +1,33 @@
+<resources>
+    <!--<dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="edit_text_size_login">18sp</dimen>
+    <dimen name="line_break_normal">15dp</dimen>
+    <dimen name="padding_horizontal_login">32dp</dimen>
+    <dimen name="textview_size">17sp</dimen>
+    <dimen name="margin_login_size">28dp</dimen>
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="order_card_height">100dp</dimen>
+    <dimen name="order_card_radius">4dp</dimen>-->
+    <dimen name="fab_margin">15dp</dimen>
+    <dimen name="margin_bottom">6dp</dimen>
+    <dimen name="card_padding">12dp</dimen>
+    <dimen name="padding_fragment_horizontal">12dp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="app_bar_height">280dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <!--
+    <dimen name="padding_fragment_top">15dp</dimen>
+
+    <dimen name="subnav_height">40dp</dimen>
+    <dimen name="edit_card_padding">20dp</dimen>
+    <dimen name="size_font_main_title_card">18sp</dimen>
+    <dimen name="size_font_sub_title_card">14sp</dimen>
+    <dimen name="marginTBEditTextCard">5dp</dimen>
+    <dimen name="marginLREditTextCard">25dp</dimen>
+    <dimen name="heightEditText">50dp</dimen>-->
+</resources>

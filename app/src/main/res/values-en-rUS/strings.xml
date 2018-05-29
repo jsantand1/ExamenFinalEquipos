@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Final Test</string>
+    <string name="toolbar_main">List of Computers</string>
+    <string name="toolbar_create">New Computer</string>
+    <string name="DiscoDuro">Hard Disk</string>
+    <string name="procesador">Procesador</string>
+    <string name="Ram">RAM</string>
+    <string name="SistemaOperativo">Operating System</string>
+    <string name="Tipo">Type</string>
+    <string name="btnGuardar">Save</string>
+    <string name="marca">Brand</string>
+    <string name="modelo">Model</string>
+    <string name="color">Color</string>
+    <string name="eliminar">Delete</string>
+    <string name="pregunta_eliminacion">Are you sure you want to eliminate this person?</string>
+    <string name="positivo">Yes</string>
+    <string name="negativo">No</string>
+
+
+    <!--Spinners-->
+    <string-array name="ram">
+        <item>2GB</item>
+        <item>4GB</item>
+        <item>8GB</item>
+        <item>16GB</item>
+        <item>32GB</item>
+    </string-array>
+    <string-array name="procesador">
+        <item>Intel Core i3</item>
+        <item>Intel Core i5</item>
+        <item>Intel Core i7</item>
+        <item>AMD A5</item>
+        <item>AMD A7</item>
+        <item>AMD A9</item>
+    </string-array>
+    <string-array name="discoduro">
+        <item>256GB</item>
+        <item>512GB</item>
+        <item>1TB</item>
+        <item>1.5TB</item>
+        <item>2TB</item>
+    </string-array>
+
+    <string-array name="so">
+        <item>Windows Vista</item>
+        <item>Windows 7</item>
+        <item>Windows 8.1</item>
+        <item>Windows 10</item>
+        <item>Ubuntu</item>
+    </string-array>
+
+    <string-array name="tipo">
+        <item>All In One</item>
+        <item>Laptop</item>
+        <item>Desktop</item>
+    </string-array>
+</resources>
